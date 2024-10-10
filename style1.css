@@ -1,0 +1,74 @@
+.container{
+    background-color: blue;
+    background-size: cover;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.owner{
+    background-color:blue;
+    background-size: cover;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.cvv{
+    background-color: blue;
+    background-size: cover;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.scanner{
+    background-color: black;
+    background-size: cover;
+    font-size: 1.7rem;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.scanner{
+    background-image: url('pay2.jpg');
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+footer{
+    margin-top: 15px;
+}
+.foot-panal1{
+    background-color: #37575a;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem; 
+} 
+.foot-pana2{
+    background-color: #222f3d;
+    height: 300px;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+ul{
+    margin-top: 20px;
+}
+
+
+ul a{
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    color: #dddddd;
+
+}
